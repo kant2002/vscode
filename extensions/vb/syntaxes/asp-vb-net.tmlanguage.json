@@ -99,7 +99,7 @@
 			"name": "keyword.control.asp"
 		},
 		{
-			"match": "(?i:\\b(Mod|And|Not|Or|Xor|as)\\b)",
+			"match": "(?i:\\b(Mod|And|AndAlso|Not|Or|OrElse|Xor|as)\\b)",
 			"name": "keyword.operator.asp"
 		},
 		{
